@@ -16,4 +16,5 @@ Funding:
 This study was funded by a pilot grant from a NIH COBRE (PG20GM103650).
 
 Study 1 questionnaire - to establish differences in sensory sensitivities between migraine and headache-free individuals. Contains references to original standardized questionnaires.
+
 Study 2 migraine diary questionnaire - to measure changes in sensory sensitivities the day beofre a migraine, the day or, the day after, and any other non-migraine days. Contains references to the modified standardized questionnaires used.
